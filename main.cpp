@@ -1,4 +1,4 @@
-//Author: PUT YOUR NAME HERE
+//Author: James Whitcomb-Weston
 #include <iostream>
 using namespace std;
 
