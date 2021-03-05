@@ -15,7 +15,7 @@
 
 ## Developer
 
-!!!Replace with your name!!!
+James Whitcomb-Weston
 
 ## Example
 
