@@ -1,8 +1,8 @@
-# !!!Replace with your unique project name!!!
+# !!!Pallete Analyzer - CSS!!!
 
 ## Description
 
-!!!Replace with a description of what your program does!!!
+!!!Asks for user input of a file and stores color values!!!
 
 ### v0.2 Updates
 
